@@ -1,0 +1,23 @@
+U.triangularis-crepida Zone,872,935
+crepida,840,872
+rhomboidea,819,840
+marginifera,796,810
+expansa,830,905
+praesulcata,627,803
+praesulcata Zone,627,803
+sulcata,572,590
+sulcata-sandbergi,572,593
+duplicata,583,590
+quadruplicata,580,621
+isosticha,669,699
+typicus,620,648
+S.bella Zone,698,700
+S.quasinuda Zone,546,699
+S.semichatovae Zone,572,590
+S.ludmilae Zone,583,593
+S.carinata Zone,580,621
+ziegleri,260,303
+MN6,1060,1100
+MN5,1060,1110
+MN4,1060,1110
+P2 Roadian,325,351
